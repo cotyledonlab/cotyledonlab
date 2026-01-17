@@ -31,6 +31,7 @@ I build web and mobile apps — sometimes for myself, sometimes for clients. Thi
 |---|------|--------------|
 | 🛒 | **[VoxShop](https://cotyledonlab.com/demos/voxshop)** | Voice-first shopping list app |
 | 🍽️ | **[Meal Planner](https://cotyledonlab.com/demos/meal-planner)** | AI-powered nutrition planning |
+| 🎵 | **[Seq](https://cotyledonlab.com/demos/seq)** | Browser-based step sequencer |
 
 ---
 
@@ -40,6 +41,7 @@ I build web and mobile apps — sometimes for myself, sometimes for clients. Thi
 |------|-------------|
 | [vox-todo](https://github.com/cotyledonlab/vox-todo) | Voice-powered shopping list (React, Web Speech API) |
 | [meal-planner-demo](https://github.com/cotyledonlab/meal-planner-demo) | AI meal planning with OpenAI |
+| [seq](https://github.com/cotyledonlab/seq) | Step sequencer & drum machine (React, Tone.js) |
 | [cotyledonlab.com](https://github.com/cotyledonlab/cotyledonlab.com) | Portfolio site (Astro, Tailwind) |
 
 ---
