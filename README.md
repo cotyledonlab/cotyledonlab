@@ -39,6 +39,7 @@ I build web and mobile apps — sometimes for myself, sometimes for clients. Thi
 
 | Repo | Description |
 |------|-------------|
+| [minimal-metrics](https://github.com/cotyledonlab/minimal-metrics) | Privacy-first web analytics in <2KB. No cookies, GDPR compliant. |
 | [vox-todo](https://github.com/cotyledonlab/vox-todo) | Voice-powered shopping list (React, Web Speech API) |
 | [meal-planner-demo](https://github.com/cotyledonlab/meal-planner-demo) | AI meal planning with OpenAI |
 | [seq](https://github.com/cotyledonlab/seq) | Step sequencer & drum machine (React, Tone.js) |
