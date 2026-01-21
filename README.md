@@ -40,6 +40,8 @@ I build web and mobile apps — sometimes for myself, sometimes for clients. Thi
 | Repo | Description |
 |------|-------------|
 | [minimal-metrics](https://github.com/cotyledonlab/minimal-metrics) | Privacy-first web analytics in <2KB. No cookies, GDPR compliant. |
+| [bedside-board](https://github.com/cotyledonlab/bedside-board) | Hospital patient companion app — track mood, metrics & questions for your medical team. |
+| [PeekabooPop](https://github.com/cotyledonlab/PeekabooPop) | Family photo bubble-popping game for toddlers on iPad. |
 | [vox-todo](https://github.com/cotyledonlab/vox-todo) | Voice-powered shopping list (React, Web Speech API) |
 | [meal-planner-demo](https://github.com/cotyledonlab/meal-planner-demo) | AI meal planning with OpenAI |
 | [seq](https://github.com/cotyledonlab/seq) | Step sequencer & drum machine (React, Tone.js) |
