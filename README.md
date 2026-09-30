@@ -1,4 +1,4 @@
-![Cotyledon Lab — music, code, and things taking root](assets/cotyledon-lab.svg)
+![Cotyledon Lab — music, code, and things taking root](assets/cotyledon-banner-v2.png)
 
 I'm John, in Ireland. Cotyledon Lab is where I tinker with music software, AI agents, and small tools I want to use myself.
 
