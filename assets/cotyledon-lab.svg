@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Cotyledon Lab</title>
+  <desc id="desc">Music, code, and things taking root. A pair of green seed leaves grows above an audio waveform on a dark grid.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a4cbb4" stroke-opacity=".07"/>
+    </pattern>
+    <linearGradient id="leaf" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#59bda0"/>
+      <stop offset="1" stop-color="#d5ef97"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="16" fill="#101f1c"/>
+  <rect width="1280" height="300" rx="16" fill="url(#grid)"/>
+  <path d="M0 228 H770 C786 228 786 207 802 207 S818 249 834 249 S850 181 866 181 S882 275 898 275 S914 159 930 159 S946 286 962 286 S978 176 994 176 S1010 262 1026 262 S1042 199 1058 199 S1074 239 1090 239 S1106 228 1122 228 H1280" fill="none" stroke="#84c7aa" stroke-opacity=".35" stroke-width="2"/>
+  <text x="64" y="105" fill="#a7ceb9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">JOHN'S WORKBENCH / IRELAND</text>
+  <text x="60" y="174" fill="#eef4e7" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="58" font-weight="650" letter-spacing="-2">Cotyledon Lab</text>
+  <text x="64" y="213" fill="#b5c8bf" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">Music, code, and things taking root.</text>
+  <path d="M949 214 C949 181 946 159 939 139" fill="none" stroke="#a9dc9d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M944 155 C900 161 874 134 875 98 C913 97 944 117 944 155Z" fill="url(#leaf)"/>
+  <path d="M946 147 C946 103 975 79 1017 80 C1016 119 987 145 946 147Z" fill="url(#leaf)"/>
+  <path d="M943 154 L891 112 M947 146 L1000 96" fill="none" stroke="#101f1c" stroke-opacity=".28" stroke-width="2"/>
+  <circle cx="1166" cy="64" r="5" fill="#d5ef97"/>
+  <text x="1143" y="91" fill="#a7ceb9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">GROWING</text>
+</svg>

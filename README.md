@@ -1,64 +1,29 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0ea5e9,100:8b5cf6&height=180&section=header&text=Cotyledon%20Lab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Dev%20%C2%B7%20Building%20in%20Public&descSize=16&descAlignY=52&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0ea5e9,100:8b5cf6&height=180&section=header&text=Cotyledon%20Lab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Dev%20%C2%B7%20Building%20in%20Public&descSize=16&descAlignY=52&descAlign=50">
-  <img alt="Cotyledon Lab Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0ea5e9,100:8b5cf6&height=180&section=header&text=Cotyledon%20Lab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Dev%20%C2%B7%20Building%20in%20Public&descSize=16&descAlignY=52&descAlign=50" width="100%">
-</picture>
+![Cotyledon Lab — music, code, and things taking root](assets/cotyledon-lab.svg)
 
-### Hey, I'm John 👋
+I'm John, in Ireland. Cotyledon Lab is where I tinker with music software, AI agents, and small tools I want to use myself.
 
-I build web and mobile apps — sometimes for myself, sometimes for clients. This is where I keep my side projects and experiments.
+Lately I've been spending a lot of time in Codex and ChatGPT, following ideas from conversation into working code. The question I keep coming back to: **what would make an AI agent useful in a music studio?**
 
-[![Website](https://img.shields.io/badge/cotyledonlab.com-0d9488?style=for-the-badge&logo=safari&logoColor=white)](https://cotyledonlab.com)
-[![Email](https://img.shields.io/badge/hello@cotyledonlab.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@cotyledonlab.com)
+### On the workbench
 
----
+- **Agents in the studio.** Exploring session musicians and an engineer working through REAPER, with SuperCollider and plugin rendering behind the scenes. I want to hear alternative takes, keep the mixer under my hands, and ask for a revision without losing the bits I like.
+- **A small, scriptable DAW.** Building an audio core that scripts and agents can inspect and control. Starting with playback, sequencing, and saved sessions; experimenting with plugin hosting and ways to connect other sound engines.
+- **Tools for everyday friction.** Things like a Safari extension that follows system appearance and a podcast picker for a particular length of walk. Small enough to build because something annoyed me.
+- **How to work with agents.** Trying out instructions, reusable skills, parallel work, and handoffs. Learning where they help, where they get tangled, and how to check that something actually works.
 
-## 🛠️ Tech I Work With
+These are experiments at different stages. Some live in public repositories; others are still on the bench.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+### A few things to explore
 
----
+| Project | What you'll find |
+| --- | --- |
+| [LLM Studio](https://github.com/cotyledonlab/llm-studio) | A producer-led music studio experiment with agent musicians, REAPER, and background audio rendering. Work in progress. |
+| [Lights On](https://github.com/cotyledonlab/lights-on) | An experiment in a reusable software-building scaffold, starting with a local receipt-review workflow. |
+| [Seq](https://github.com/cotyledonlab/seq) | An earlier browser step sequencer and drum machine. |
+| [Podfetch](https://github.com/cotyledonlab/podfetch) | A CLI for finding podcast episodes that fit the time you have. |
 
-## 🎯 Live Demos
+### Compare notes
 
-| | Demo | What it does |
-|---|------|--------------|
-| 🛒 | **[VoxShop](https://cotyledonlab.com/demos/voxshop)** | Voice-first shopping list app |
-| 🍽️ | **[Meal Planner](https://cotyledonlab.com/demos/meal-planner)** | AI-powered nutrition planning |
-| 🎵 | **[Seq](https://cotyledonlab.com/demos/seq)** | Browser-based step sequencer |
+If you're exploring music tools, creative coding, or agents that can do something useful beyond a chat window, I'd enjoy comparing notes. Questions and ideas are welcome in the relevant repo's issues.
 
----
-
-## 📦 Recent Projects
-
-| Repo | Description |
-|------|-------------|
-| [minimal-metrics](https://github.com/cotyledonlab/minimal-metrics) | Privacy-first web analytics in <2KB. No cookies, GDPR compliant. |
-| [bedside-board](https://github.com/cotyledonlab/bedside-board) | Hospital patient companion app — track mood, metrics & questions for your medical team. |
-| [PeekabooPop](https://github.com/cotyledonlab/PeekabooPop) | Family photo bubble-popping game for toddlers on iPad. |
-| [vox-todo](https://github.com/cotyledonlab/vox-todo) | Voice-powered shopping list (React, Web Speech API) |
-| [meal-planner-demo](https://github.com/cotyledonlab/meal-planner-demo) | AI meal planning with OpenAI |
-| [seq](https://github.com/cotyledonlab/seq) | Step sequencer & drum machine (React, Tone.js) |
-| [cotyledonlab.com](https://github.com/cotyledonlab/cotyledonlab.com) | Portfolio site (Astro, Tailwind) |
-
----
-
-## 🤝 Available for Work
-
-Got a project idea? I take on freelance work — MVPs, prototypes, or full builds.
-
-[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-0d9488?style=for-the-badge&logoColor=white)](https://cotyledonlab.com/#contact)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:0d9488&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:0d9488&height=100&section=footer">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:0d9488&height=100&section=footer" width="100%">
-</picture>
+<sub>A cotyledon is a seed's first leaf. The name still fits.</sub>
