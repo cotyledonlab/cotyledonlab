@@ -1,5 +1,7 @@
 # Cotyledon Lab visual assets
 
+Cartoon avatar variant: `cotyledon-avatar-john-v3.png`. John's portrait was used privately as a likeness reference; source photographs are not included. Generated with the built-in image tool, retaining the two leaves and waveform and adding an editorial cartoon with dark glasses, moustache, and tousled hair.
+
 Generated using the built-in image generation tool. Pine-black, warm ivory, lime and mint; two cotyledon leaves flowing into sound. The banner is used by the profile README. The avatar and studio illustration are ready for reuse.
 
 ## avatar
